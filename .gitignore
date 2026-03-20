@@ -1,0 +1,9 @@
+# Ignore video recordings
+*.mp4
+*.mov
+*.mkv
+
+# Ignore temporary or OS files
+*.DS_Store
+*.Thumbs.db
+*.log
